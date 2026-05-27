@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch.",
+    "image": "https://i.postimg.cc/8zQzNCHs/course-web.png",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Design Masterclass",
+    "instructor": "Maya Patel",
+    "duration": "14 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Design stunning user experiences for web and mobile.",
+    "image": "https://i.postimg.cc/zf1vs5xk/course-design.png",
+    "category": "Design"
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Growth Lab",
+    "instructor": "Alex Kim",
+    "duration": "12 hours",
+    "rating": 4.9,
+    "level": "All levels",
+    "description": "Build modern marketing campaigns that convert visitors into customers.",
+    "image": "https://i.postimg.cc/SN8cn8hv/course-marketing.png",
+    "category": "Marketing"
+  },
+  {
+    "id": 4,
+    "title": "React & TypeScript Intensive",
+    "instructor": "Elena Brooks",
+    "duration": "18 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Create production-ready React apps with TypeScript and best practices.",
+    "image": "https://i.postimg.cc/cLZxg8nj/course-react.png",
+    "category": "Development"
+  },
+  {
+    "id": 5,
+    "title": "Brand Strategy for Creatives",
+    "instructor": "Mason Tate",
+    "duration": "10 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Launch a strong online brand with design-led storytelling.",
+    "image": "https://i.postimg.cc/0Q8y2Fqt/course-branding.png",
+    "category": "Design"
+  },
+  {
+    "id": 6,
+    "title": "Growth Analytics & Conversion",
+    "instructor": "Priya Shah",
+    "duration": "16 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Use data-driven tactics to scale user engagement and revenue.",
+    "image": "https://i.postimg.cc/px9fCBfQ/course-analytics.png",
+    "category": "Marketing"
+  }
+]
